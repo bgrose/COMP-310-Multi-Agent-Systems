@@ -1,13 +1,12 @@
-## CSCE _ _ _: _ _ _
-Code Written for _ _ _ CSCE _ _ _ Class for _ _ _ of _ _ _.
+## COMP 310 Multi Agent Systems
+**Course was taken at University of Liverpool**
+
+Code Written for Dr. Bei Ping COMP 310 Class for Spring of 2022.
 
 **Code for Archival Purposes Only**
 
-**Grade: _ _ _**
-
-Topics Covered: 
-* 
+**Grade: TBC**
 
 
 
-*Developed in VSCode for _ _ _*
+*Developed in JASON*
